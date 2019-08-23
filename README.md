@@ -1,5 +1,5 @@
 # Ekata_HNG_PROJECTS
-Project: Guthub Project; it's all about pushing git from the Git application to the GitHub
+Github Project; it's all about pushing git from the Git application to the GitHub
 GitHub brings together the world's largest community of developers to discover, share, and build better software.
 A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
 
